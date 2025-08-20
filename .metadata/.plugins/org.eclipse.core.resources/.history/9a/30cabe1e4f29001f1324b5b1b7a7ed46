@@ -1,0 +1,23 @@
+package seleniumproject;
+
+import org.testng.annotations.Test;
+
+public class TestDemo {
+
+	
+
+	
+
+	@Test(priority)
+	public void demo()
+	{
+		System.out.println("testng");
+	}
+	
+	@Test
+	
+	public void testdemoA()
+	{
+		System.out.println("testng1");
+}
+}

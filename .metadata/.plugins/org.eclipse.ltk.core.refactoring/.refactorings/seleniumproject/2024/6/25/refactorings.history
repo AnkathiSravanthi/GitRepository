@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;seleniumproject/EmailCredential&apos; to &apos;file&apos;" description="Rename resource &apos;EmailCredential&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="EmailCredential" name="file" stamp="1718673319414" updateReferences="true"/>
+</session>
